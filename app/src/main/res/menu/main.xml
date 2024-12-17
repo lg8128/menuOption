@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_plus"
+        android:title="+"
+        android:orderInCategory="100" />
+
+    <item
+        android:id="@+id/menu_hisur"
+        android:title="-"
+        android:orderInCategory="300" />
+
+    <item
+        android:id="@+id/menu_kefel"
+        android:title="*"
+        android:orderInCategory="200" />
+    <item
+        android:id="@+id/menu_hiluk"
+        android:title="/"
+        android:orderInCategory="300" />
+
+    <item
+        android:id="@+id/menu_C"
+        android:title="C"
+        android:orderInCategory="200" />
+</menu>
